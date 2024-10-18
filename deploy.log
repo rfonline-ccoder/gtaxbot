@@ -1,0 +1,10 @@
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды ban.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды bug.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды index.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды kick.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды mute.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды setlogchannel.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды unban.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 ERROR: Ошибка при регистрации команды unmute.mjs: Only URLs with a scheme in: file, data, and node are supported by the default ESM loader. On Windows, absolute paths must be valid file:// URLs. Received protocol 'd:'
+2024-08-02 23:48:46 INFO: Начинается регистрация (загрузка) слэш-команд.
+2024-08-02 23:48:47 INFO: Успешно зарегистрированы все слэш-команды.
